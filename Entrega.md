@@ -22,35 +22,35 @@ Executando:
 
 #### Schedule `static`:
 ##### Sem especificação de chunk
-<div align="center"><img src="https://raw.githubusercontent.com/elc139/t3-thalissonforte/master/static.png"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/elc139/t3-thalissonforte/master/imagens/static.png"></div>
 
 ##### Com 4 chunks
 
-<div align="center"><img src="https://raw.githubusercontent.com/elc139/t3-thalissonforte/master/static_4chunks.png"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/elc139/t3-thalissonforte/master/imagens/static_4chunks.png"></div>
 
 #### Schedule `dynamic`:
 ##### Sem especificação de chunk
-<div align="center"><img src="https://raw.githubusercontent.com/elc139/t3-thalissonforte/master/dynamic.png"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/elc139/t3-thalissonforte/master/imagens/dynamic.png"></div>
 
 ##### Com 4 chunks
 
-<div align="center"><img src="https://raw.githubusercontent.com/elc139/t3-thalissonforte/master/dynamic_4chunks.png"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/elc139/t3-thalissonforte/master/imagens/dynamic_4chunks.png"></div>
 
 #### Schedule `guided`:
 ##### Sem especificação de chunk
-<div align="center"><img src="https://raw.githubusercontent.com/elc139/t3-thalissonforte/master/guided.png"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/elc139/t3-thalissonforte/master/imagens/guided.png"></div>
 
 ##### Com 4 chunks
 
-<div align="center"><img src="https://raw.githubusercontent.com/elc139/t3-thalissonforte/master/guided_4chunks.png"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/elc139/t3-thalissonforte/master/imagens/guided_4chunks.png"></div>
 
 #### Schedule `runtime`:
 
-<div align="center"><img src="https://raw.githubusercontent.com/elc139/t3-thalissonforte/master/runtime.png"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/elc139/t3-thalissonforte/master/imagens/runtime.png"></div>
 
 #### Schedule `auto`:
 
-<div align="center"><img src="https://raw.githubusercontent.com/elc139/t3-thalissonforte/master/auto.png"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/elc139/t3-thalissonforte/master/imagens/auto.png"></div>
 
 
 ### Referências
