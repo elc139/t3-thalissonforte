@@ -52,6 +52,9 @@ Executando:
 
 <div align="center"><img src="https://raw.githubusercontent.com/elc139/t3-thalissonforte/master/imagens/auto.png"></div>
 
+#### Sem exclusão mútua:
+
+<div align="center"><img src="https://raw.githubusercontent.com/elc139/t3-thalissonforte/master/imagens/sem_mutex.png"></div>
 
 ### Referências
 - Computing. OpenMP. https://computing.llnl.gov/tutorials/openMP/.
